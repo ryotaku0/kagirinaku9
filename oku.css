@@ -1,0 +1,36 @@
+body{
+  background-color:rgb(255, 187, 0);
+  width:100%;
+ 
+}
+.container{
+  width:1170px;
+  margin:0 auto;
+}
+
+a:hover{
+  opacity:0.5;
+}
+.emer{
+  width:200px;
+  float:left;
+  margin-left:50px;
+  position: relative;;
+ 
+}
+.reality{
+  font-size:14px;
+  color:rgb(255, 187, 0);
+position:absolute;
+margin-left:180px;
+margin-top:37px;
+}
+h1{
+  margin-left:530px;
+  font-size:60px;
+}
+p{
+  
+  font-size:20px;
+  font-weight: bold;;
+}
